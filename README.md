@@ -3,7 +3,7 @@
 **Author**: Junyoung Son, Brandon Pitts, Luis Rosales, Robert Shepley
 **Version**: 1.0.0 
 
-[GitHub - Windows Extreme](https://github.com/Windows-Extreme/project-prep)
+[GitHub - Windows Extreme](https://github.com/Windows-Extreme/project-prep) //
 [Miro - WRRC](https://miro.com/app/board/uXjVPaG79C4=/?share_link_id=474824069726)
 
 ## Overview
