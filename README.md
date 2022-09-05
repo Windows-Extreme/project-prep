@@ -5,7 +5,9 @@
 **Version**: 0.1.0
 
 [GitHub - CoinFellows (Main)](https://github.com/orgs/coinfellows/repositories)
-[GitHub - CoinFellows (App)]https://github.com/coinfellows/client)
+
+[GitHub - CoinFellows (App)](https://github.com/coinfellows/client)
+
 [GitHub - CoinFellows (Server)](https://github.com/coinfellows/server)
 
 [Miro - Project Management Board](https://miro.com/app/board/uXjVPaG79C4=/?share_link_id=474824069726)
@@ -52,6 +54,19 @@ Name of feature: Windows Extreme
 Estimate of time needed to complete: 3 hours
 
 Start time: 11:00am
+
+Finish time: 3:30pm
+
+Actual time needed to complete:
+
+---
+
+09/05/2022
+Name of feature: Coin Fellows
+
+Estimate of time needed to complete: 3 hours
+
+Start time: 10:00am
 
 Finish time: 3:30pm
 
