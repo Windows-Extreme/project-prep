@@ -1,12 +1,14 @@
-# Project Prep - Windows Extreme
+# Project Prep - Coin Fellows
 
 **Author**: Junyoung Son, Brandon Pitts, Luis Rosales, Robert Shepley
 
-**Version**: 1.0.0
+**Version**: 0.1.0
 
-[GitHub - Windows Extreme](https://github.com/Windows-Extreme/project-prep)
+[GitHub - CoinFellows (Main)](https://github.com/orgs/coinfellows/repositories)
+[GitHub - CoinFellows (App)]https://github.com/coinfellows/client)
+[GitHub - CoinFellows (Server)](https://github.com/coinfellows/server)
 
-[Miro - WRRC](https://miro.com/app/board/uXjVPaG79C4=/?share_link_id=474824069726)
+[Miro - Project Management Board](https://miro.com/app/board/uXjVPaG79C4=/?share_link_id=474824069726)
 
 ## Overview
 
@@ -14,19 +16,19 @@ This project we are building a CRUD app that works with Crypto currencies and wi
 
 ## Getting Started
 
-Team Github Repository created - Windows Extreme,
+Team Github Repository created - ---Windows Extreme Coin Fellows, 
 
 Miro - Team WRRC board created,
 
 ## Architecture
 
-React, Mongoose, MongoDB, Axios, Express, Node.js, Material.ui,
+React, Mongoose, MongoDB, Axios, Express, Node.js, Material.ui, 0Auth, 
 
 ## Change Log
 
-09-02-2022 3:30pm - Team github created, ReadMe updated. WRRC created, Ideas noted.
+09-02-2022 3:30pm - Team github created, ReadMe updated. WRRC created, Ideas noted. Team name changed from Windwos Extreme to Coin Fellows.
 
-09-02-2022 xx:xxpm - xx
+09-05-2022 11:31am - React App & Server created and pushed upto Repo, User Stories created.
 
 ---
 
