@@ -18,7 +18,7 @@ This project we are building a CRUD app that works with Crypto currencies and wi
 
 ## Getting Started
 
-Team Github Repository created - ---Windows Extreme Coin Fellows, 
+Team Github Repository created - <s>Windows Extreme</s> Coin Fellows, 
 
 Miro - Team WRRC board created,
 
@@ -31,6 +31,10 @@ React, Mongoose, MongoDB, Axios, Express, Node.js, Material.ui, 0Auth,
 09-02-2022 3:30pm - Team github created, ReadMe updated. WRRC created, Ideas noted. Team name changed from Windwos Extreme to Coin Fellows.
 
 09-05-2022 11:31am - React App & Server created and pushed upto Repo, User Stories created.
+
+09-05-2022 12:49am - React App & Server created and pushed upto Repo, User Stories created.
+
+
 
 ---
 
